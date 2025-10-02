@@ -1,9 +1,7 @@
 <h1 align='center' >PANNAGADHARA KS</h1>
 
-<p >
-	  * Skilled in building high-performance APIs, optimizing databases, designing distributed systems, and developing interactive Next.js frontends<br/>
-	  * Vigorous about Data Structures, Backend Engineering, and Scalable System Design
-</p>
+* Skilled in building high-performance APIs, optimizing databases, designing distributed systems, and developing interactive Next.js frontends<br/>
+* Vigorous about Data Structures, Backend Engineering, and Scalable System Design
 
 ## Tech Stacks
 
@@ -53,3 +51,46 @@
 	<img src="https://img.shields.io/badge/EKS-FF9933?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="30" />
 </p>
 
+## Professional Experience
+```
+	Frontend Software Developer Intern - Secqure.io [Apr/2021 - Oct/2021]
+	- Developed efficient user interactive API's that handles concurrent users.
+	- Implemented **Custom Pagination** without any external dependencies via Data Structures.
+	- Assisted the Agile Team by contributing TypeORM & Backend implementations.
+```
+```
+	Software Developer Intern - iNetFrame Technologies [Jan/2022 - Jun/2022]
+	- Contributed to develop various algorithmic components such as Taking Quiz, Assigning Questions w.r.t. Marks Obtained in UI.
+	- Coordinated with Cross-Functional Teams.
+	- Designed & Developed Sudoku at the end of the Internship Program using basic Data Structures.
+```
+```
+	Software Developer - Health Chain [Aug/2022 - Present]
+	- Designed & Developed Backend architecture boosting the processing speed by >150% using asynchronous operations.
+	- Deployed a product that processes ~15 Million per day in Containerized environment without any inconcsistencies.
+	- Researched on various POC's with various teams for efficient work environment via Gitlab / Jira  
+```
+
+## Github Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=PannagadharaKS&theme=dark)](https://git.io/streak-stats)
+
+## Contact
+<p align="left">
+	<a href="mailto:pannaga1123@gmail.com" >
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+	</a>
+	<a href="https://www.linkedin.com/in/pannagadhara-kittandur-shashidhar-4721121a5/" >
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+	</a>
+	<a href="https://github.com/PannagadharaKS" >
+		<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" />
+	</a>
+</p>
+
+## Hobbies / Facts
+* I Spend time on Drawing Glow Arts related to Anime / Games / Fictious Figures occasionally.<br/>
+* Love playing Video Games since childhood. [No specifications to any Genres / Platform]<br/>
+* Fluent in English, Kannada & hugely enthusiastic to learn Japanese in the future!<br/>
+* Expanding myself by exploring new technologies whenever needed.
+
+### Currently strengthening myself w.r.t. Data Structures & all the Basics to expand myself further!
