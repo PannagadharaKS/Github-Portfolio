@@ -24,6 +24,7 @@
 	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30" />
 	<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30" />
 	<img src="https://img.shields.io/badge/typeorm-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" height="30" />
+	<img src="https://img.shields.io/badge/python-007ACE?style=for-the-badge&logo=python&logoColor=white" height="30" />
 </p>
 
 #### Frontend
@@ -114,4 +115,4 @@
 
 ---
 
-### Currently strengthening w.r.t. Data Structures & all the Basics to expand myself further!
+### Currently strengthening w.r.t. Data Structures & all the Basics to expand myself further! | 02102025
