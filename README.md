@@ -20,11 +20,11 @@
 #### Backend
 <p align="left">
 	<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="30" />
+	<img src="https://img.shields.io/badge/c++-007ACE?style=for-the-badge&logo=c++&logoColor=white" height="30" />
 	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30" />
 	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30" />
 	<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30" />
 	<img src="https://img.shields.io/badge/typeorm-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" height="30" />
-	<img src="https://img.shields.io/badge/python-007ACE?style=for-the-badge&logo=python&logoColor=white" height="30" />
 </p>
 
 #### Frontend
@@ -108,9 +108,9 @@
 ---
 
 ## Hobbies / Facts
-* I Spend time on Drawing Glow Arts related to Anime / Games / Fictious Figures occasionally.<br/>
-* Love playing Video Games since childhood. [No specifications to any Genres / Platform]<br/>
-* Fluent in English, Kannada & hugely enthusiastic to learn Japanese in the future!<br/>
+* I Spend time on Drawing Glow Arts related to Anime / Games / Fictious Figures occasionally.
+* Love playing Video Games since childhood. [No specifications to any Genres / Platform]
+* Fluent in English, Kannada & hugely enthusiastic to learn Japanese in the future!
 * Expanding myself by exploring new technologies whenever needed.
 
 ---
